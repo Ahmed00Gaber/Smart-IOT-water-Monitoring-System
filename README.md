@@ -1,5 +1,5 @@
 # Smart-IOT-Real-Time Tracking and Water Quality Monitoring
-##System
+## System
 GPS and Data Transmission:
 • Utilize GPS modules to provide real-time tracking of the Aqua clean Scape's
 location.
@@ -33,7 +33,7 @@ Blynk mobile app.
 • Provide a feedback loop, allowing users to receive information about the system's
 current status and water quality conditions.
 
-##Circuit Components
+## Circuit Components
 Circuit schematic that involves the MCP3008 ADC for interfacing pH and TDS
 sensors with SPI communication, UART communication with a GPS sensor, and control
 of a conveyor belt and pump using an L293D motor driver with a Raspberry Pi 4.
