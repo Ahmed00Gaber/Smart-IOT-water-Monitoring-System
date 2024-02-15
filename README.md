@@ -42,6 +42,8 @@ Blynk mobile app:
 • Provide a feedback loop, allowing users to receive information about the system's
 current status and water quality conditions.
 
+![cuircuit_IOT](https://github.com/Ahmed00Gaber/Smart-IOT-water-Monitoring-System/assets/113920593/24de1dd4-875a-4a04-92ca-e70c44b332d4)
+
 ## Circuit Components
 Circuit schematic that involves the MCP3008 ADC for interfacing pH and TDS
 sensors with SPI communication, UART communication with a GPS sensor, and control
